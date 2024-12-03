@@ -1,0 +1,8 @@
+numpy
+flask
+python-docx
+transformers
+pymupdf
+sentence_transformers
+faiss-cpu
+boto3
